@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deremee
-- 👀 I’m interested in Software Developing (especially in Front- and Backend)
+- 👀 I’m interested in Software Developing (especially in Front- and Backend / or as simple Fullstack)
 - 🌱 I’m studying as Business and Computer Science (Wirtschaftsinformatik) at University of Applied Science in Karlsruhe.
 - 💞️ I’m currently looking for Internship (Pflichtpraktikum) in the field of software developing
-- 📫 How to reach me: "tomdermee@gmail.com"
+- 📫 How to reach me: "dorjderem.amarbat@gmail.com"
 - ⚡ I'm currently learning --> Backend: Java, SQL, Spring Boot, JavaScript, NodeJS -- Frontend: Html5, CSS, JavaScript, ReactJS -- Other: Docker, Kubernetes, Jira Softwares, Github, Bitbucket
 
 <!---
